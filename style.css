@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap");
+*{
+  font-family : "Syne Mono" , monospace;
+}
+body {
+ 
+  margin: 0px;
+  padding: 0px;
+}
+.pics {
+  height : 300px;
+  width : 350px;
+  margin-left : 200px
+}
+header h1 {
+  text-align : center;
+}
+header { 
+ background-color : yellow;  
+}
+  .nav {
+ background-color : orange;
+  color : blue;
+  padding : 5px;
+  margin : 20px;
+  border-radius : 5px;
+    text-decoration : none;
+  text-align : center;
+  font-size : 20px;
+ 
+}
+.nav:hover {
+  background-image : linear-gradient(to right,rgba(255 , 0 ,0 , 0.7),rgba(98 , 52,140,0.7))
+}
+.navbar {
+   text-align : right;
+  background :url("https://thumbs.gfycat.com/AnchoredTallAmericangoldfinch-max-1mb.gif");
+  height : 250px;
+  
+   background-color : yellow;
+  background-repeat : no-repeat;
+  background-size : 35%;
+  
+  }
+.center {
+  text-align : center;
+  background-color : white;
+  margin-bottom : 100px;
+}
+.topic {
+  text-align : center;
+  background-color : #ADD8E6;
+}
+.ways {
+  text-align : center;
+  background-color : #90EE90;
+  margin-bottom : 100px;
+}
+.rules {
+  text-align : center;
+  background-color : blue;
+  margin-bottom : 100px;
+}
